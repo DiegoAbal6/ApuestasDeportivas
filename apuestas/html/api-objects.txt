@@ -1,0 +1,7 @@
+Generarpdf	Generarpdf-module.html
+Generarpdf.PDF	Generarpdf.PDF-class.html
+Generarpdf.PDF.pdf	Generarpdf.PDF-class.html#pdf
+Generarpdf.PDF.notificar	Generarpdf.PDF-class.html#notificar
+Generarpdf.PDF.tabla	Generarpdf.PDF-class.html#tabla
+Generarpdf.PDF.__init__	Generarpdf.PDF-class.html#__init__
+Generarpdf.PDF.cerrar	Generarpdf.PDF-class.html#cerrar
